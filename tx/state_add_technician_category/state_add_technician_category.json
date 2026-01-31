@@ -290,7 +290,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FIRST_NAME"
     },
     {
       "id": "field_1768286186947",
@@ -825,6 +825,126 @@
       "pageNumber": 1,
       "value": "false",
       "databaseMapping": null
+    },
+     {
+      "id": "field_1769861010824",
+      "name": "Printed Name",
+      "type": "text",
+      "coordinates": {
+        "x": 110.0999755859375,
+        "y": 809.2375183105469,
+        "width": 13,
+        "height": 29,
+        "corners": {
+          "x1": 110.0999755859375,
+          "y1": 809.2375183105469,
+          "x2": 123.0999755859375,
+          "y2": 809.2375183105469,
+          "x3": 123.0999755859375,
+          "y3": 838.2375183105469,
+          "x4": 110.0999755859375,
+          "y4": 838.2375183105469
+        }
+      },
+      "fieldNameCoordinates": {
+        "x": 110.0999755859375,
+        "y": 809.2375183105469,
+        "corners": {
+          "x1": 110.0999755859375,
+          "y1": 809.2375183105469,
+          "x2": 123.0999755859375,
+          "y2": 809.2375183105469,
+          "x3": 123.0999755859375,
+          "y3": 838.2375183105469,
+          "x4": 110.0999755859375,
+          "y4": 838.2375183105469
+        },
+        "pdfPageWidth": 918,
+        "pdfPageHeight": 1188
+      },
+      "pageNumber": 1,
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
+    },
+    {
+      "id": "field_1769861053201",
+      "name": "License Number Of CA",
+      "type": "text",
+      "coordinates": {
+        "x": 336.0999755859375,
+        "y": 809.2375183105469,
+        "width": 10,
+        "height": 29,
+        "corners": {
+          "x1": 336.0999755859375,
+          "y1": 809.2375183105469,
+          "x2": 346.0999755859375,
+          "y2": 809.2375183105469,
+          "x3": 346.0999755859375,
+          "y3": 838.2375183105469,
+          "x4": 336.0999755859375,
+          "y4": 838.2375183105469
+        }
+      },
+      "fieldNameCoordinates": {
+        "x": 336.0999755859375,
+        "y": 809.2375183105469,
+        "corners": {
+          "x1": 336.0999755859375,
+          "y1": 809.2375183105469,
+          "x2": 346.0999755859375,
+          "y2": 809.2375183105469,
+          "x3": 346.0999755859375,
+          "y3": 838.2375183105469,
+          "x4": 336.0999755859375,
+          "y4": 838.2375183105469
+        },
+        "pdfPageWidth": 918,
+        "pdfPageHeight": 1188
+      },
+      "pageNumber": 1,
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.CA_NAME_LICENSE_NUMBER"
+    },
+    {
+      "id": "field_1769861125915",
+      "name": "Technician Name",
+      "type": "text",
+      "coordinates": {
+        "x": 110.0999755859375,
+        "y": 164.4375,
+        "width": 15,
+        "height": 29,
+        "corners": {
+          "x1": 110.0999755859375,
+          "y1": 164.4375,
+          "x2": 125.0999755859375,
+          "y2": 164.4375,
+          "x3": 125.0999755859375,
+          "y3": 193.4375,
+          "x4": 110.0999755859375,
+          "y4": 193.4375
+        }
+      },
+      "fieldNameCoordinates": {
+        "x": 110.0999755859375,
+        "y": 164.4375,
+        "corners": {
+          "x1": 110.0999755859375,
+          "y1": 164.4375,
+          "x2": 125.0999755859375,
+          "y2": 164.4375,
+          "x3": 125.0999755859375,
+          "y3": 193.4375,
+          "x4": 110.0999755859375,
+          "y4": 193.4375
+        },
+        "pdfPageWidth": 918,
+        "pdfPageHeight": 1188
+      },
+      "pageNumber": 2,
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
     }
   ]
 }

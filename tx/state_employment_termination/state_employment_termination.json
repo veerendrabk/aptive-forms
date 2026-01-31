@@ -43,46 +43,6 @@
       "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_NAME"
     },
     {
-      "id": "field_1768284660060",
-      "name": "TDA License No",
-      "type": "text",
-      "coordinates": {
-        "x": 226.33331298828125,
-        "y": 254.23611450195312,
-        "width": 11,
-        "height": 30,
-        "corners": {
-          "x1": 226.33331298828125,
-          "y1": 254.23611450195312,
-          "x2": 237.33331298828125,
-          "y2": 254.23611450195312,
-          "x3": 237.33331298828125,
-          "y3": 284.2361145019531,
-          "x4": 226.33331298828125,
-          "y4": 284.2361145019531
-        }
-      },
-      "fieldNameCoordinates": {
-        "x": 226.33331298828125,
-        "y": 254.23611450195312,
-        "corners": {
-          "x1": 226.33331298828125,
-          "y1": 254.23611450195312,
-          "x2": 237.33331298828125,
-          "y2": 254.23611450195312,
-          "x3": 237.33331298828125,
-          "y3": 284.2361145019531,
-          "x4": 226.33331298828125,
-          "y4": 284.2361145019531
-        },
-        "pdfPageWidth": 918,
-        "pdfPageHeight": 1188
-      },
-      "pageNumber": 1,
-      "value": "",
-      "databaseMapping": null
-    },
-    {
       "id": "field_1768284683228",
       "name": "TDA TPCL No",
       "type": "text",
@@ -160,7 +120,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_ADDRESS"
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_FULL_ADDRESS"
     },
     {
       "id": "field_1768284712318",
@@ -320,7 +280,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FIRST_NAME"
     },
     {
       "id": "field_1768284779975",
@@ -560,7 +520,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LAST_NAME"
     },
     {
       "id": "field_1768284901486",
