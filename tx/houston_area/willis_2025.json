@@ -2656,7 +2656,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": 
+      "databaseMapping": null
     },
     {
       "id": "field_1768209793762",
@@ -2736,7 +2736,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": 
+      "databaseMapping":null
     },
     {
       "id": "field_1768209828154",

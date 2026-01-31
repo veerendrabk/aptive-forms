@@ -121,7 +121,7 @@
       "pageNumber": 1,
       "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.STATE_ISSUED"
-    }
+    },
     {
       "id": "field_1768329318401",
       "name": "Email",

@@ -968,7 +968,7 @@
     },
     {
       "id": "field_1768129855877",
-      "name": "Business Address ,
+      "name": "Business Address",
       "type": "text",
       "coordinates": {
         "x": 109.33331298828125,
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "field_1768129880376",
-      "name": "Business State,
+      "name": "Business State",
       "type": "text",
       "coordinates": {
         "x": 591.3333129882812,
