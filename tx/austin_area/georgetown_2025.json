@@ -401,7 +401,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 6,
-      "value": "",
+      "value": "false",
       "databaseMapping": null
     },
     {
@@ -443,7 +443,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 6,
-      "value": "",
+      "value": "false",
       "databaseMapping": null
     },
     {
@@ -485,7 +485,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 6,
-      "value": "",
+      "value": "false",
       "databaseMapping": null
     },
     {
@@ -1126,7 +1126,7 @@
       },
       "pageNumber": 6,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_STATE"
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.STATE_ISSUED"
     },
     {
       "id": "field_1768924542974",
@@ -8726,7 +8726,7 @@
       },
       "pageNumber": 9,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_STATE"
+      "databaseMapping": null
     },
     {
       "id": "field_1768977868427",

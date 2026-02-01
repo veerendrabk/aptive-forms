@@ -1096,7 +1096,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_ADDRESS"
     },
     {
       "id": "field_1768036977406",
@@ -1136,7 +1136,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.CORPORATE_PHONE_NUMBER"
     },
     {
       "id": "field_1768036985653",
@@ -1216,7 +1216,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_PLATE_NUMBER"
+      "databaseMapping": null
     },
     {
       "id": "field_1768036888409",
@@ -1256,7 +1256,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_STATE"
+      "databaseMapping": null
     },
     {
       "id": "field_1768036896532",
@@ -1296,7 +1296,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.YEAR"
+      "databaseMapping": null
     },
     {
       "id": "field_1768036933163",
@@ -1336,7 +1336,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768036941394",
@@ -1376,7 +1376,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768036948346",

@@ -240,7 +240,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_FULL_ADDRESS"
     },
     {
       "id": "field_1768025065405",
@@ -1090,7 +1090,7 @@
       },
       "pageNumber": 3,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768025527339",
@@ -1130,7 +1130,7 @@
       },
       "pageNumber": 3,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768025534134",
@@ -1170,7 +1170,7 @@
       },
       "pageNumber": 3,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.YEAR"
+      "databaseMapping": null
     },
     {
       "id": "field_1768025541127",
@@ -1528,46 +1528,6 @@
           "y3": 256.03749084472656,
           "x4": 52.0999755859375,
           "y4": 256.03749084472656
-        },
-        "pdfPageWidth": 918,
-        "pdfPageHeight": 1188
-      },
-      "pageNumber": 4,
-      "value": "",
-      "databaseMapping": null
-    },
-    {
-      "id": "field_1768025718776",
-      "name": "Date",
-      "type": "date",
-      "coordinates": {
-        "x": 577.0999755859375,
-        "y": 443.8375015258789,
-        "width": 59,
-        "height": 22,
-        "corners": {
-          "x1": 577.0999755859375,
-          "y1": 443.8375015258789,
-          "x2": 636.0999755859375,
-          "y2": 443.8375015258789,
-          "x3": 636.0999755859375,
-          "y3": 465.8375015258789,
-          "x4": 577.0999755859375,
-          "y4": 465.8375015258789
-        }
-      },
-      "fieldNameCoordinates": {
-        "x": 577.0999755859375,
-        "y": 443.8375015258789,
-        "corners": {
-          "x1": 577.0999755859375,
-          "y1": 443.8375015258789,
-          "x2": 636.0999755859375,
-          "y2": 443.8375015258789,
-          "x3": 636.0999755859375,
-          "y3": 465.8375015258789,
-          "x4": 577.0999755859375,
-          "y4": 465.8375015258789
         },
         "pdfPageWidth": 918,
         "pdfPageHeight": 1188

@@ -454,7 +454,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.ADDRESS"
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_ADDRESS"
     },
     {
       "id": "field_1768369270629",
@@ -654,11 +654,11 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.ADDRESS"
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_FULL_ADDRESS"
     },
     {
       "id": "field_1768369439483",
-      "name": "Employers name",
+      "name": "Employers Name",
       "type": "text",
       "coordinates": {
         "x": 390.0999755859375,
@@ -694,7 +694,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
     },
     {
       "id": "field_1768369457851",
@@ -734,7 +734,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": null
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_ADDRESS"
     },
     {
       "id": "field_1768921009643",
@@ -774,7 +774,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.YEAR"
+      "databaseMapping": null
     },
     {
       "id": "field_1768921048744",
@@ -814,7 +814,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768921108631",
@@ -854,7 +854,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping":"APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768369494942",
@@ -894,7 +894,7 @@
       },
       "pageNumber": 2,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_PLATE_NUMBER"
+      "databaseMapping": null
 	},
     {
       "id": "field_1768369505827",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "field_1768369649353",
-      "name": "Location where books and records are kept Not applicable_For Peddler Solicitors Distributors Only",
+      "name": "Location where books and records are kept Not applicable For Peddler Solicitors Distributors Only",
       "type": "checkbox",
       "checkboxPosition": "before",
       "checkboxPadding": 2,

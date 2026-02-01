@@ -480,7 +480,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE/MODEL"
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
     },
     {
       "id": "field_1768542432719",

@@ -45,7 +45,7 @@
     {
       "id": "field_1768294665461",
       "name": "Permit Number",
-      "type": "number",
+      "type": "text",
       "coordinates": {
         "x": 537.0999755859375,
         "y": 307.0374994277954,
@@ -400,7 +400,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.YEAR"
+      "databaseMapping": null
     },
     {
       "id": "field_1768294821037",
@@ -440,7 +440,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768294827968",
@@ -480,7 +480,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MAKE_MODEL"
+      "databaseMapping": null
     },
     {
       "id": "field_1768294835368",
@@ -560,7 +560,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_STATE"
+      "databaseMapping": null
     },
     {
       "id": "field_1768294853600",
@@ -600,7 +600,7 @@
       },
       "pageNumber": 1,
       "value": "",
-      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.LICENSE_PLATE_NUMBER"
+      "databaseMapping": null
     },
     {
       "id": "field_1768294886879",

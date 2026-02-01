@@ -39,7 +39,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_NAME"
     },
     {
@@ -79,7 +79,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_ADDRESS"
     },
     {
@@ -119,8 +119,8 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
-      "databaseMapping": null
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_ADDRESS"
     },
     {
       "id": "field_1768026385686",
@@ -159,7 +159,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_PHONE_NUMBER"
     },
     {
@@ -199,8 +199,8 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
-      "databaseMapping": null
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_PHONE_NUMBER"
     },
     {
       "id": "field_1768026399226",
@@ -239,7 +239,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -279,7 +279,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -319,7 +319,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -359,7 +359,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -399,7 +399,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -439,7 +439,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -479,7 +479,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -519,7 +519,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -559,7 +559,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -599,7 +599,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -639,7 +639,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 2,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -679,7 +679,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.BUSINESS_LICENSING_DETAILS.BUSINESS_NAME"
     },
     {
@@ -719,8 +719,8 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
-      "databaseMapping": null
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
     },
     {
       "id": "field_1768026747312",
@@ -759,8 +759,8 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
-      "databaseMapping": null
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_ADDRESS"
     },
     {
       "id": "field_1768026759103",
@@ -799,8 +799,8 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
-      "databaseMapping": null
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MOBILE"
     },
     {
       "id": "field_1768026773526",
@@ -839,7 +839,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.SSN"
     },
     {
@@ -879,7 +879,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.DRIVERS_LICENSE_NUMBER"
     },
     {
@@ -959,7 +959,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -999,7 +999,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.HEIGHT"
     },
     {
@@ -1039,7 +1039,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.WEIGHT"
     },
     {
@@ -1079,7 +1079,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1119,7 +1119,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.HAIR_COLOR"
     },
     {
@@ -1159,7 +1159,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.EYE_COLOR"
     },
     {
@@ -1199,7 +1199,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1239,7 +1239,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1279,7 +1279,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1319,7 +1319,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1359,7 +1359,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1399,7 +1399,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1439,7 +1439,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1479,7 +1479,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1519,7 +1519,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1559,7 +1559,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1599,7 +1599,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1639,7 +1639,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1679,7 +1679,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1719,7 +1719,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1759,7 +1759,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 3,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1799,7 +1799,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1839,7 +1839,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1879,7 +1879,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1919,7 +1919,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1959,7 +1959,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -1999,7 +1999,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2039,7 +2039,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2079,7 +2079,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2119,7 +2119,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2159,7 +2159,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2239,7 +2239,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2319,7 +2319,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 4,
-      "value": " ",
+      "value": "",
       "databaseMapping": null
     },
     {
@@ -2399,7 +2399,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
     },
     {
@@ -2439,7 +2439,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.SSN"
     },
     {
@@ -2479,13 +2479,13 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.DATE_OF_BIRTH"
     },
     {
       "id": "field_1768027553403",
       "name": "Drivers License Number",
-      "type": "text",
+      "type": "license",
       "coordinates": {
         "x": 479.0999755859375,
         "y": 738.4375,
@@ -2519,7 +2519,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.DRIVERS_LICENSE_NUMBER"
     },
     {
@@ -2559,7 +2559,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.ADDRESS"
     },
     {
@@ -2599,7 +2599,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.CITY"
     },
     {
@@ -2639,7 +2639,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.STATE"
     },
     {
@@ -2679,7 +2679,7 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.ZIP"
     },
     {
@@ -2719,8 +2719,88 @@
         "pdfPageHeight": 1188
       },
       "pageNumber": 5,
-      "value": " ",
+      "value": "",
       "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.MOBILE"
+    },
+    {
+      "id": "field_1769865829106",
+      "name": "Printed Name of Applicant",
+      "type": "text",
+      "coordinates": {
+        "x": 24.14269835977177,
+        "y": 846.2529289251738,
+        "width": 219.00330532300418,
+        "height": 22.000255446397716,
+        "corners": {
+          "x1": 24.14269835977177,
+          "y1": 846.2529289251738,
+          "x2": 243.14600368277596,
+          "y2": 846.2529289251738,
+          "x3": 243.14600368277596,
+          "y3": 868.2531843715715,
+          "x4": 24.14269835977177,
+          "y4": 868.2531843715715
+        }
+      },
+      "fieldNameCoordinates": {
+        "x": 24.14269835977177,
+        "y": 846.2529289251738,
+        "corners": {
+          "x1": 24.14269835977177,
+          "y1": 846.2529289251738,
+          "x2": 243.14600368277596,
+          "y2": 846.2529289251738,
+          "x3": 243.14600368277596,
+          "y3": 868.2531843715715,
+          "x4": 24.14269835977177,
+          "y4": 868.2531843715715
+        },
+        "pdfPageWidth": 918,
+        "pdfPageHeight": 1188
+      },
+      "pageNumber": 2,
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
+    },
+    {
+      "id": "field_1769869902167",
+      "name": "Printed Name of Applicant",
+      "type": "text",
+      "coordinates": {
+        "x": 41.14295493735657,
+        "y": 337.24697304752794,
+        "width": 222.0033506014015,
+        "height": 21.00024383519782,
+        "corners": {
+          "x1": 41.14295493735657,
+          "y1": 337.24697304752794,
+          "x2": 263.1463055387581,
+          "y2": 337.24697304752794,
+          "x3": 263.1463055387581,
+          "y3": 358.24721688272575,
+          "x4": 41.14295493735657,
+          "y4": 358.24721688272575
+        }
+      },
+      "fieldNameCoordinates": {
+        "x": 41.14295493735657,
+        "y": 337.24697304752794,
+        "corners": {
+          "x1": 41.14295493735657,
+          "y1": 337.24697304752794,
+          "x2": 263.1463055387581,
+          "y2": 337.24697304752794,
+          "x3": 263.1463055387581,
+          "y3": 358.24721688272575,
+          "x4": 41.14295493735657,
+          "y4": 358.24721688272575
+        },
+        "pdfPageWidth": 918,
+        "pdfPageHeight": 1188
+      },
+      "pageNumber": 4,
+      "value": "",
+      "databaseMapping": "APTIVE_LICENSING.SALES_EMPLOYEE_LICENSING_EXPORT.FULL_LEGAL_NAME"
     }
   ]
 }
